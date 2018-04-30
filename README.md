@@ -1,6 +1,24 @@
-frontend-nanodegree-arcade-game
-===============================
+# Kostya's Classic Arcade Game Cone Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Table of Contents
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* [How to run the Game](#HTRTG)
+* [How to play the Game](#HTPTG)
+* [Contributing](#Contributin)
+
+## How to run the Game
+
+Simple,
+All you have to do is drop the index.html file into your browser and start playing!!
+
+## How to play the Game
+
+![princess-girl](images/char-princess-girl.png)
+
+Play as the distressed Princess who only wants to cross the field of terrifying enemies up ahead!
+1. The "Green Area" is completely safe and no enemies will attack
+2. Use the Arrow Keys to move left, right, up and down and proceed crossing the ferocious stone land of the dashing enemies. ![enemy-bug](images/enemy-bug.png)
+3. Reach the Water and you win!
+4. Try again.
+
+## Contributing
